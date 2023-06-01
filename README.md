@@ -1,6 +1,6 @@
-# CompetitiveCodes
+# CodeBytes
 
-Competitive Codes is a list of competitive programming questions ranging from LeetCode to CodeChef and others.
+CodeBytes is a list of competitive programming questions ranging from LeetCode to CodeChef and others.
 
 ## Platforms 
 1. <a href="#leetcode">LeetCode </a>
@@ -9,13 +9,18 @@ Competitive Codes is a list of competitive programming questions ranging from Le
 
 ## LeetCode
 
-| | Problem | # | Category |
-|-|---------|---|----------|
-|🟢| Two Sum [`py`](/Arrays/1_two_sum.py) | 1 | `Arrays` |
-|🟢| Remove Duplicates [`py`](/Arrays/26_remove_duplicates.py) | 26 | `Arrays` |
+> **Difficulty Levels :**
+🟢 Easy
+🟡 Medium
+🔴 Hard
+
+| | # | Problem | Category | Time |
+|-|---|---------|----------| ---- |
+|🟢| 1| Two Sum [`py`](/Arrays/1_two_sum.py) | `Arrays` `Hash Table` |
+|🟢| 58 | Length of Last Word [`py`](/Arrays/58_length_of_last_word.py) | `Arrays` `Strings` |
+|🟡| 150 | Evaluate Reverse Polish Notation [`py`](/Stacks/150_evaluate_reverse_polish_notation.py) | `Stacks` `Arrays` `Math` |
 
 <a href="#platforms">🔼 Return to Top 🔼</a>
-
 
 ## CodeChef
 
