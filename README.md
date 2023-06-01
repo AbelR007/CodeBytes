@@ -17,6 +17,8 @@ CodeBytes is a list of competitive programming questions ranging from LeetCode t
 | | # | Problem | Category | Time |
 |-|---|---------|----------| ---- |
 |🟢| 1| Two Sum [`py`](/Arrays/1_two_sum.py) | `Arrays` `Hash Table` |
+|🟢| 9 | Palindrome Number [`py`](/Math/9_palindrome_number.py) | `Math` |
+|🟢| 13| Roman to Integer [`py`](/Math/13_roman_to_integer.py) | `Math` `Strings` `Hash table` |
 |🟢| 58 | Length of Last Word [`py`](/Arrays/58_length_of_last_word.py) | `Arrays` `Strings` |
 |🟡| 150 | Evaluate Reverse Polish Notation [`py`](/Stacks/150_evaluate_reverse_polish_notation.py) | `Stacks` `Arrays` `Math` |
 
